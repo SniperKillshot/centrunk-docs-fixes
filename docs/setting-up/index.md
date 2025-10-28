@@ -21,4 +21,4 @@ All subscribers are **REQUIRED** to be part of the Discord.
 You need a Raspberry Pi and one hotspot board in DVRS mode, or two hotspots and either two Raspberry Pis, one Pi and one USB board, or any Linux host and two USB boards to use the system.  USB boards are recommended as the better way to flash new firmware on your board.
 
 ## Technical Support
-If you require any support with completing this process, or would like to join the system, please visit [the CTRS Discord](https://discord.gg/ctrs) where you can ask your questions or [open a support ticket through Jira](https://centrunk.atlassian.net/servicedesk/customer/portals).
+If you require any support with completing this process, or would like to join the system, please visit [the CTRS Discord](https://discord.gg/ctrs) where you can ask your questions or [open a support ticket.](https://tickets.bellsys.cc/).
