@@ -9,7 +9,7 @@ All subscribers are **REQUIRED** to be part of the Discord.
 
 - Raspberry Pi 3 or newer with Raspbian Legacy 32-bit (armv71) installed. Raspberry Pi 4 and 5 with more than 4GB of RAM may default to 64-bit; however, users should continue to attempt installation of the approved image.
 - Terminal Access to the selected Pi via local keyboard or another remote protocol (e.g., PuTTY, Windows PowerShell).
-- If you do not use the recommended USB conversion board (See the Recommended Hardware list), several small jumper wires.
+- If you do not use the recommended USB conversion board (See the Recommended Hardware list), you will also need several small jumper wires.
 - Basic Linux Knowledge or knowledge of where to find resources through the Internet.
 
 
